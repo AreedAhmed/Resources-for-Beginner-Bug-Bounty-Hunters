@@ -9,6 +9,7 @@ Getting in the right Mindset:
 - [Mental Hacking 4 Better Bounties:](https://youtu.be/roVg_wgGgxQ) by STÖK
 - [Happy Hacking:](http://phrack.com/issues/68/7.html#article) Phrack Volume 0x0e, Issue 0x44, Phile #0x07 of 0x13
 - [BSidesSF 2020 - Panel: Mental Health for Hackers (Chloé M • Ryan L • Susan P)](https://youtu.be/raH7tRy8M7g)
+- [Bug Bounties and Mental Health](https://medium.com/@NathOnSecurity/bug-bounties-and-mental-health-40662b2e497b) by @NathOnSecurity
 
 ---
 back to [Intro Page](/README.md)
